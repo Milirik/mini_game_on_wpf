@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\bin\Debug\ArtilleryShooting.exe.config
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\bin\Debug\ArtilleryShooting.exe
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\bin\Debug\ArtilleryShooting.pdb
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting.g.resources
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting.exe
+C:\Users\Кирилл\Desktop\Практика\3 задание\ArtilleryShooting\ArtilleryShooting\obj\Debug\ArtilleryShooting.pdb
